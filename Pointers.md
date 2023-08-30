@@ -6,4 +6,6 @@ Pointers for topics which need to be explore.
   5. AWS Servlet Java Container
   6. Spring AI
   7. Obserbility and Micrometer (Distibuted tracing with Spring)
-  8. 
+  8. 12 Factor Compliant
+  9. Test Containers and JUnit 5
+  10. Spring Cloud Stream
